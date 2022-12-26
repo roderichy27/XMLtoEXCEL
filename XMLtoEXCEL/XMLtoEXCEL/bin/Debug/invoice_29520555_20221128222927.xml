@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created by Qvantel Oy -->
+<Array-Bill>
+<InvoiceDocument Document="Invoice" Version="4.0">
+  <Batch>
+    <Company>Kyivstar</Company>
+    <Created>2022-11-28T23:40:24.000+02:00</Created>
+  </Batch>
+  <Invoice Language="UK" PrintHouseCode="QVANTEL" InvoiceGroup="B2B" XMLCopyFile="invoice_29520555_20221128222927.xml" SkipPrintingDiffInv="yes" Layout="">
+    <Header>
+      <MainTitle>Рахунок</MainTitle>
+      <InvoiceID Header="РАХУНОК No">209916447363</InvoiceID>
+      <InvoiceDate Header="від">30.11.2022</InvoiceDate>
+      <DueDate Header="Дата відправлення">27.11.2022</DueDate>
+      <BillingPeriod>
+        <BeginDate>01.11.2022 00:00:00</BeginDate>
+        <EndDate>30.11.2022 23:59:59</EndDate>
+      </BillingPeriod>
+      <InvoiceType Name="Test Invoice">99</InvoiceType>
+      <LiveSignature Header="живая подпись">no</LiveSignature>
+      <InvoiceAct Header="счет-акт">yes</InvoiceAct>
+      <RBSInvoiceID>29520555</RBSInvoiceID>
+    </Header>
+    <ContactInfo>
+      <CompanyName>ПрАТ &quot;Київстар&quot;</CompanyName>
+      <Address>м. Київ, Україна, 03113, вулиця Дегтярівська, будинок 53</Address>
+      <TaxID>ІПН 216738326059</TaxID>
+      <Phone>тел. 0 800 300 466</Phone>
+    </ContactInfo>
+    <Customer>
+      <CustomerType>Invoice</CustomerType>
+      <Category>COMP</Category>
+      <CustomerID Header="ЕДРПОУ">25040503</CustomerID>
+      <RBSCustomerNumber>359741</RBSCustomerNumber>
+      <CustomerName Header="Абонент:">
+        <FirstName>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ &apos;СПІЛЬНЕ ПІДПРИЄМСТВО &apos;АКВАВІНТЕКС&apos;</FirstName>
+        <MiddleName></MiddleName>
+        <LastName>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ &apos;СПІЛЬНЕ ПІДПРИЄМСТВО &apos;АКВАВІНТЕКС&apos;</LastName>
+        <FullName>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ &apos;СПІЛЬНЕ ПІДПРИЄМСТВО &apos;АКВАВІНТЕКС&apos;</FullName>
+      </CustomerName>
+      <CustomerPhone Header="Aбонентський номер:">0674838432</CustomerPhone>
+      <AgreementNumber Header="Договір: No">99741</AgreementNumber>
+      <AgreementStartDate Header="від">06.06.2002</AgreementStartDate>
+      <BillingAccount Header="Особовий рахунок абонента:">606687</BillingAccount>
+      <CustomerAddress>
+        <Address></Address>
+        <ZipCode></ZipCode>
+        <City>  </City>
+        <Region></Region>
+        <Country>Ukraine</Country>
+      </CustomerAddress>
+    </Customer>
+    <PaymentInfo>
+      <BarCode Position="1">03001455420001086800209916447363</BarCode>
+      <PaymentText Position="1">Платіжні реквізити:</PaymentText>
+      <PaymentText Position="2">п/р UA873808050000000026003707654 в АТ &quot;Райффайзен Банк&quot;, м Київ</PaymentText>
+      <PaymentText Position="3">МФО 380805, ЄДРПОУ 21673832</PaymentText>
+      <PaymentText Position="4">п/р UA333510050000026005325079000 в АТ ?УкрСиббанк?, м. Київ</PaymentText>
+      <PaymentText Position="5">МФО 351005, ЄДРПОУ 21673832</PaymentText>
+    </PaymentInfo>
+    <InvoiceText>
+      <Text Type="StatementText">Цей рахунок сформований білінговою системою Оператора є первинним документом який підтверджує надання Оператором послуг Абоненту у відповідному розрахунковому періоді. Рахунок зберігається у Абонента та за необхідності може бути скріплений підписом та печаткою Абонента.</Text>
+      <Text Type="SignatureText" Position="1">Оператор:</Text>
+      <Text Type="SignatureText" Position="2">Пiдпис:</Text>
+      <Text Type="SignatureText" Position="3">М.П.</Text>
+      <Text Type="SignatureText" Position="4">Абонент:</Text>
+      <Text Type="SignatureText" Position="5">Пiдпис:</Text>
+      <Text Type="SignatureText" Position="6">М.П.</Text>
+      <Text Type="Footer" Position="1">Під час заповнення доручення на оплату в графі ?Призначення платежу? слід зазначати: ?Оплата за послуги зв&apos;язку на особовий рахунок № 606687, абонентський номер 0674838432?. Рахунок підлягає оплаті протягом 5 днів.</Text>
+      <Text Type="Footer" Position="2">Якщо у вас є картка Visa, Master Card або Cirrus/Maestro, ви можете оплатити цей рахунок на сайті pay.kyivstar.ua</Text>
+      <Text Type="Footer" Position="3">Самостійно контролюйте витрати та управляйте послугами мобільного зв&apos;язку за допомогою системи ?Мій Київстар? на сайті www.my.kyivstar.ua</Text>
+      <Text Type="Page">Стор.</Text>
+      <Text Type="Currency">грн</Text>
+      <Text Type="Note">* Вартість послуг рухомого (мобільного) зв&apos;язку вказана з урахуванням ПДВ. Додатково утримано збір до Пенсійного фонду у розмірі 7.5% з вартості послуг без урахування ПДВ. Вартіcть послуг фіксованого телефонного зв&apos;язку вказана з урахуванням ПДВ. </Text>
+      <Text Type="DiffText">Диференційований рахунок</Text>
+      <Text Type="PhoneText">Відомість вартості отриманих послуг  за абонентським номером</Text>
+      <Text Type="CallCodes">S - текстове повідомлення (SMS) P - замовлення/отримання додаткових послуг G - послуга &apos;Прямий номер&apos; М - мультимедійне повідомлення (MMS) F - ередача/прийом факсів D - передача/прийом даних&apos;</Text>
+      <Text Type="CallType">1-вихідний  2 - вхідний 3-переадресований  4-виклик до абонента в роумінгу&apos;</Text>
+      <Text Type="CallDuration">тривалість з&apos;&apos;єднання у секундах&apos;</Text>
+      <Text Type="DetailedInfo">ДЕТАЛІЗОВАНА ІНФОРМАЦІЯ ПО РАХУНКУ №:</Text>
+    </InvoiceText>
+    <Summary Type="InvoiceSection">
+      <SummaryRow>
+        <RowDetail Header="Вартість, грн">
+          <Text>Замовлено та надано послуг рухомого (мобільного) зв&apos;язку за період</Text>
+          <AmountExclTax Header="Разом (без податків):">3332.59</AmountExclTax>
+          <TaxAmount Type="VAT" Header="Податок на додану вартість (20% ПДВ)">666.52</TaxAmount>
+          <TaxAmount Type="PF" Header="Збір до Пенсійного фонду (7.5% ПФ)">249.94</TaxAmount>
+          <Amount Header="Разом (зі збором до Пенсійного фонду та з ПДВ):">4249.05</Amount>
+          <Summary Type="BIGroup">
+            <SummaryRow>
+              <RowDetail>
+                <Text>Коригування нарахувань (для послуг з ПДВ та ПФ)</Text>
+                <Id>10</Id>
+                <AmountExclTax>-54.30</AmountExclTax>
+                <Amount>-69.23</Amount>
+              </RowDetail>
+              <RowDetail>
+                <Text>Послуги SMS та MMS (вихідні текстові та мультимедійні повідомлення )</Text>
+                <Id>12</Id>
+                <AmountExclTax>10.20</AmountExclTax>
+                <Amount>13.00</Amount>
+              </RowDetail>
+              <RowDetail>
+                <Text>Щомісячна абонентна плата</Text>
+                <Id>1</Id>
+                <AmountExclTax>3376.69</AmountExclTax>
+                <Amount>4305.28</Amount>
+              </RowDetail>
+            </SummaryRow>
+          </Summary>
+        </RowDetail>
+      </SummaryRow>
+    </Summary>
+    <InvoiceAmount>
+      <AmountDetail Type="Main" Header="Замовлено та надано послуг Mobile за перiод">
+        <BalBeginMonth Header="Станом на ">518.95</BalBeginMonth>
+        <BalBeginMonthText>залишок</BalBeginMonthText>
+        <BalEndMonth Header="Станом на ">2369.90</BalEndMonth>
+        <BalBeginEndText>залишок</BalBeginEndText>
+        <TotalAmount Header="Разом замовлено та надано послуг за період на суму">4249.05</TotalAmount>
+        <PaymentsTotalAmount Header="Надходження коштів  на особовий рахунок">6100.00</PaymentsTotalAmount>
+        <RecommendedPayment Header="Сума рекомендованого авансового платежу">1900.00</RecommendedPayment>
+        <TaxAmount Type="VAT" Header="Податок на додану вартість (20% ПДВ)">666.52</TaxAmount>
+        <TaxAmount Type="PF" Header="Збір до Пенсійного фонду (7.5% ПФ)">249.94</TaxAmount>
+        <Currency>UAH</Currency>
+        <Payments Header="Деталізація платежів за типами:">
+          <PaymentsInitial Header="Початковий платіж(дилерам), грн">0.00</PaymentsInitial>
+          <PaymentsBank Header="Платежі через банк, грн">6100.00</PaymentsBank>
+          <PaymentsScratch Header="Скретч-картки та інші платежі, грн">0.00</PaymentsScratch>
+          <PaymentsOther Header="Переказ коштів та інші коригування, грн">0.00</PaymentsOther>
+          <PaymentsTotal Header="Разом, грн">6100.00</PaymentsTotal>
+        </Payments>
+      </AmountDetail>
+    </InvoiceAmount>
+    <Contract>
+      <InvoiceID Header="Додаток до рахунку No ">209916447363</InvoiceID>
+      <ContractDetail>
+        <ContractID Header="Відомість вартості отриманих послуг за абонентським номером ">0675174960</ContractID>
+        <ContractType Header="" Name="Smart">B2BSMART</ContractType>
+        <ContractName Header="Абонент:">
+          <FullName> Anonymous</FullName>
+        </ContractName>
+        <SubInvoiceAmount>
+          <AmountDetail Type="Sub">
+            <AmountExclTax Header="Разом:">186.76</AmountExclTax>
+            <TotalAmount Header="Разом замовлено та надано послуг за період на суму">186.76</TotalAmount>
+          </AmountDetail>
+        </SubInvoiceAmount>
+        <Summary Type="InvoiceSection">
+          <SummaryRow>
+            <RowDetail Header="Вартість, грн">
+              <Text>Замовлено та надано послуг рухомого (мобільного) зв&apos;язку за період</Text>
+              <AmountExclTax Header="Разом (без податків):">146.48</AmountExclTax>
+              <Amount Header="Разом (зі збором до Пенсійного фонду та з ПДВ):">186.76</Amount>
+              <Summary Type="BIGroup">
+                <SummaryRow>
+                  <RowDetail>
+                    <Text>Вихідні внутрішньомережеві  дзвінки</Text>
+                    <Id>2</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Вихідні міські, міжміські дзвінки та дзвінки на номери ін. операторів мобільного зв&apos;язку України</Text>
+                    <Id>3</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Вхідні дзвінки</Text>
+                    <Id>4</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Послуги SMS та MMS (вихідні текстові та мультимедійні повідомлення )</Text>
+                    <Id>12</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Послуги передачі даних із використанням технології GPRS/EDGE</Text>
+                    <Id>27</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Щомісячна абонентна плата</Text>
+                    <Id>1</Id>
+                    <AmountExclTax>186.76</AmountExclTax>
+                    <Amount>186.76</Amount>
+                  </RowDetail>
+                </SummaryRow>
+              </Summary>
+            </RowDetail>
+          </SummaryRow>
+        </Summary>
+      </ContractDetail>
+      <ContractDetail>
+        <ContractID Header="Відомість вартості отриманих послуг за абонентським номером ">0675174950</ContractID>
+        <ContractType Header="" Name="Smart">B2BSMART</ContractType>
+        <ContractName Header="Абонент:">
+          <FullName> Anonymous</FullName>
+        </ContractName>
+        <SubInvoiceAmount>
+          <AmountDetail Type="Sub">
+            <AmountExclTax Header="Разом:">186.76</AmountExclTax>
+            <TotalAmount Header="Разом замовлено та надано послуг за період на суму">186.76</TotalAmount>
+          </AmountDetail>
+        </SubInvoiceAmount>
+        <Summary Type="InvoiceSection">
+          <SummaryRow>
+            <RowDetail Header="Вартість, грн">
+              <Text>Замовлено та надано послуг рухомого (мобільного) зв&apos;язку за період</Text>
+              <AmountExclTax Header="Разом (без податків):">146.48</AmountExclTax>
+              <Amount Header="Разом (зі збором до Пенсійного фонду та з ПДВ):">186.76</Amount>
+              <Summary Type="BIGroup">
+                <SummaryRow>
+                  <RowDetail>
+                    <Text>Вихідні внутрішньомережеві  дзвінки</Text>
+                    <Id>2</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Вихідні міські, міжміські дзвінки та дзвінки на номери ін. операторів мобільного зв&apos;язку України</Text>
+                    <Id>3</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Вхідні дзвінки</Text>
+                    <Id>4</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Послуги SMS та MMS (вихідні текстові та мультимедійні повідомлення )</Text>
+                    <Id>12</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Щомісячна абонентна плата</Text>
+                    <Id>1</Id>
+                    <AmountExclTax>186.76</AmountExclTax>
+                    <Amount>186.76</Amount>
+                  </RowDetail>
+                </SummaryRow>
+              </Summary>
+            </RowDetail>
+          </SummaryRow>
+        </Summary>
+      </ContractDetail>
+      <ContractDetail>
+        <ContractID Header="Відомість вартості отриманих послуг за абонентським номером ">0674848191</ContractID>
+        <ContractType Header="" Name="Smart+">B2BSMARTPLUS</ContractType>
+        <ContractName Header="Абонент:">
+          <FullName> Anonymous</FullName>
+        </ContractName>
+        <SubInvoiceAmount>
+          <AmountDetail Type="Sub">
+            <AmountExclTax Header="Разом:">346.76</AmountExclTax>
+            <TotalAmount Header="Разом замовлено та надано послуг за період на суму">346.76</TotalAmount>
+          </AmountDetail>
+        </SubInvoiceAmount>
+        <Summary Type="InvoiceSection">
+          <SummaryRow>
+            <RowDetail Header="Вартість, грн">
+              <Text>Замовлено та надано послуг рухомого (мобільного) зв&apos;язку за період</Text>
+              <AmountExclTax Header="Разом (без податків):">271.97</AmountExclTax>
+              <Amount Header="Разом (зі збором до Пенсійного фонду та з ПДВ):">346.76</Amount>
+              <Summary Type="BIGroup">
+                <SummaryRow>
+                  <RowDetail>
+                    <Text>Вихідні внутрішньомережеві  дзвінки</Text>
+                    <Id>2</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Вихідні міські, міжміські дзвінки та дзвінки на номери ін. операторів мобільного зв&apos;язку України</Text>
+                    <Id>3</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Вхідні дзвінки</Text>
+                    <Id>4</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Послуги SMS та MMS (вихідні текстові та мультимедійні повідомлення )</Text>
+                    <Id>12</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Послуги передачі даних із використанням технології GPRS/EDGE</Text>
+                    <Id>27</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Щомісячна абонентна плата</Text>
+                    <Id>1</Id>
+                    <AmountExclTax>346.76</AmountExclTax>
+                    <Amount>346.76</Amount>
+                  </RowDetail>
+                </SummaryRow>
+              </Summary>
+            </RowDetail>
+          </SummaryRow>
+        </Summary>
+      </ContractDetail>
+      <ContractDetail>
+        <ContractID Header="Відомість вартості отриманих послуг за абонентським номером ">0674869097</ContractID>
+        <ContractType Header="" Name="Smart+">B2BSMARTPLUS</ContractType>
+        <ContractName Header="Абонент:">
+          <FullName> Anonymous</FullName>
+        </ContractName>
+        <SubInvoiceAmount>
+          <AmountDetail Type="Sub">
+            <AmountExclTax Header="Разом:">247.59</AmountExclTax>
+            <TotalAmount Header="Разом замовлено та надано послуг за період на суму">247.59</TotalAmount>
+          </AmountDetail>
+        </SubInvoiceAmount>
+        <Summary Type="InvoiceSection">
+          <SummaryRow>
+            <RowDetail Header="Вартість, грн">
+              <Text>Замовлено та надано послуг рухомого (мобільного) зв&apos;язку за період</Text>
+              <AmountExclTax Header="Разом (без податків):">194.19</AmountExclTax>
+              <Amount Header="Разом (зі збором до Пенсійного фонду та з ПДВ):">247.59</Amount>
+              <Summary Type="BIGroup">
+                <SummaryRow>
+                  <RowDetail>
+                    <Text>Вихідні внутрішньомережеві  дзвінки</Text>
+                    <Id>2</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Вихідні міські, міжміські дзвінки та дзвінки на номери ін. операторів мобільного зв&apos;язку України</Text>
+                    <Id>3</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Вхідні дзвінки</Text>
+                    <Id>4</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Переадресовані дзвінки</Text>
+                    <Id>28</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Щомісячна абонентна плата</Text>
+                    <Id>1</Id>
+                    <AmountExclTax>247.59</AmountExclTax>
+                    <Amount>247.59</Amount>
+                  </RowDetail>
+                </SummaryRow>
+              </Summary>
+            </RowDetail>
+          </SummaryRow>
+        </Summary>
+      </ContractDetail>
+      <ContractDetail>
+        <ContractID Header="Відомість вартості отриманих послуг за абонентським номером ">0674863138</ContractID>
+        <ContractType Header="" Name="Smart+">B2BSMARTPLUS</ContractType>
+        <ContractName Header="Абонент:">
+          <FullName> Anonymous</FullName>
+        </ContractName>
+        <SubInvoiceAmount>
+          <AmountDetail Type="Sub">
+            <AmountExclTax Header="Разом:">303.52</AmountExclTax>
+            <TotalAmount Header="Разом замовлено та надано послуг за період на суму">303.52</TotalAmount>
+          </AmountDetail>
+        </SubInvoiceAmount>
+        <Summary Type="InvoiceSection">
+          <SummaryRow>
+            <RowDetail Header="Вартість, грн">
+              <Text>Замовлено та надано послуг рухомого (мобільного) зв&apos;язку за період</Text>
+              <AmountExclTax Header="Разом (без податків):">238.05</AmountExclTax>
+              <Amount Header="Разом (зі збором до Пенсійного фонду та з ПДВ):">303.52</Amount>
+              <Summary Type="BIGroup">
+                <SummaryRow>
+                  <RowDetail>
+                    <Text>Щомісячна абонентна плата</Text>
+                    <Id>1</Id>
+                    <AmountExclTax>303.52</AmountExclTax>
+                    <Amount>303.52</Amount>
+                  </RowDetail>
+                </SummaryRow>
+              </Summary>
+            </RowDetail>
+          </SummaryRow>
+        </Summary>
+      </ContractDetail>
+      <ContractDetail>
+        <ContractID Header="Відомість вартості отриманих послуг за абонентським номером ">0674860986</ContractID>
+        <ContractType Header="" Name="Smart Max">B2BSMARTMAX</ContractType>
+        <ContractName Header="Абонент:">
+          <FullName> Anonymous</FullName>
+        </ContractName>
+        <SubInvoiceAmount>
+          <AmountDetail Type="Sub">
+            <AmountExclTax Header="Разом:">350.00</AmountExclTax>
+            <TotalAmount Header="Разом замовлено та надано послуг за період на суму">350.00</TotalAmount>
+          </AmountDetail>
+        </SubInvoiceAmount>
+        <Summary Type="InvoiceSection">
+          <SummaryRow>
+            <RowDetail Header="Вартість, грн">
+              <Text>Замовлено та надано послуг рухомого (мобільного) зв&apos;язку за період</Text>
+              <AmountExclTax Header="Разом (без податків):">274.51</AmountExclTax>
+              <Amount Header="Разом (зі збором до Пенсійного фонду та з ПДВ):">350.00</Amount>
+              <Summary Type="BIGroup">
+                <SummaryRow>
+                  <RowDetail>
+                    <Text>Вихідні внутрішньомережеві  дзвінки</Text>
+                    <Id>2</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Вихідні міські, міжміські дзвінки та дзвінки на номери ін. операторів мобільного зв&apos;язку України</Text>
+                    <Id>3</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Вхідні дзвінки</Text>
+                    <Id>4</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Щомісячна абонентна плата</Text>
+                    <Id>1</Id>
+                    <AmountExclTax>350.00</AmountExclTax>
+                    <Amount>350.00</Amount>
+                  </RowDetail>
+                </SummaryRow>
+              </Summary>
+            </RowDetail>
+          </SummaryRow>
+        </Summary>
+      </ContractDetail>
+      <ContractDetail>
+        <ContractID Header="Відомість вартості отриманих послуг за абонентським номером ">0675167702</ContractID>
+        <ContractType Header="" Name="Smart Max">B2BSMARTMAX</ContractType>
+        <ContractName Header="Абонент:">
+          <FullName> Anonymous</FullName>
+        </ContractName>
+        <SubInvoiceAmount>
+          <AmountDetail Type="Sub">
+            <AmountExclTax Header="Разом:">360.00</AmountExclTax>
+            <TotalAmount Header="Разом замовлено та надано послуг за період на суму">360.00</TotalAmount>
+          </AmountDetail>
+        </SubInvoiceAmount>
+        <Summary Type="InvoiceSection">
+          <SummaryRow>
+            <RowDetail Header="Вартість, грн">
+              <Text>Замовлено та надано послуг рухомого (мобільного) зв&apos;язку за період</Text>
+              <AmountExclTax Header="Разом (без податків):">282.35</AmountExclTax>
+              <Amount Header="Разом (зі збором до Пенсійного фонду та з ПДВ):">360.00</Amount>
+              <Summary Type="BIGroup">
+                <SummaryRow>
+                  <RowDetail>
+                    <Text>Вихідні внутрішньомережеві  дзвінки</Text>
+                    <Id>2</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Вихідні міські, міжміські дзвінки та дзвінки на номери ін. операторів мобільного зв&apos;язку України</Text>
+                    <Id>3</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Вхідні дзвінки</Text>
+                    <Id>4</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Переадресовані дзвінки</Text>
+                    <Id>28</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Послуги SMS та MMS (вихідні текстові та мультимедійні повідомлення )</Text>
+                    <Id>12</Id>
+                    <AmountExclTax>10.00</AmountExclTax>
+                    <Amount>10.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Послуги передачі даних із використанням технології GPRS/EDGE</Text>
+                    <Id>27</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Щомісячна абонентна плата</Text>
+                    <Id>1</Id>
+                    <AmountExclTax>350.00</AmountExclTax>
+                    <Amount>350.00</Amount>
+                  </RowDetail>
+                </SummaryRow>
+              </Summary>
+            </RowDetail>
+          </SummaryRow>
+        </Summary>
+      </ContractDetail>
+      <ContractDetail>
+        <ContractID Header="Відомість вартості отриманих послуг за абонентським номером ">0674848118</ContractID>
+        <ContractType Header="" Name="Smart Max+">B2BSMRTMAXPLUS</ContractType>
+        <ContractName Header="Абонент:">
+          <FullName> Anonymous</FullName>
+        </ContractName>
+        <SubInvoiceAmount>
+          <AmountDetail Type="Sub">
+            <AmountExclTax Header="Разом:">506.76</AmountExclTax>
+            <TotalAmount Header="Разом замовлено та надано послуг за період на суму">506.76</TotalAmount>
+          </AmountDetail>
+        </SubInvoiceAmount>
+        <Summary Type="InvoiceSection">
+          <SummaryRow>
+            <RowDetail Header="Вартість, грн">
+              <Text>Замовлено та надано послуг рухомого (мобільного) зв&apos;язку за період</Text>
+              <AmountExclTax Header="Разом (без податків):">397.46</AmountExclTax>
+              <Amount Header="Разом (зі збором до Пенсійного фонду та з ПДВ):">506.76</Amount>
+              <Summary Type="BIGroup">
+                <SummaryRow>
+                  <RowDetail>
+                    <Text>Вихідні внутрішньомережеві  дзвінки</Text>
+                    <Id>2</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Вихідні міські, міжміські дзвінки та дзвінки на номери ін. операторів мобільного зв&apos;язку України</Text>
+                    <Id>3</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Вхідні дзвінки</Text>
+                    <Id>4</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Послуги SMS та MMS (вихідні текстові та мультимедійні повідомлення )</Text>
+                    <Id>12</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Послуги передачі даних із використанням технології GPRS/EDGE</Text>
+                    <Id>27</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Щомісячна абонентна плата</Text>
+                    <Id>1</Id>
+                    <AmountExclTax>506.76</AmountExclTax>
+                    <Amount>506.76</Amount>
+                  </RowDetail>
+                </SummaryRow>
+              </Summary>
+            </RowDetail>
+          </SummaryRow>
+        </Summary>
+      </ContractDetail>
+      <ContractDetail>
+        <ContractID Header="Відомість вартості отриманих послуг за абонентським номером ">0674838432</ContractID>
+        <ContractType Header="" Name="Smart Max+">B2BSMRTMAXPLUS</ContractType>
+        <ContractName Header="Абонент:">
+          <FullName> Anonymous</FullName>
+        </ContractName>
+        <SubInvoiceAmount>
+          <AmountDetail Type="Sub">
+            <AmountExclTax Header="Разом:">559.76</AmountExclTax>
+            <TotalAmount Header="Разом замовлено та надано послуг за період на суму">559.76</TotalAmount>
+          </AmountDetail>
+        </SubInvoiceAmount>
+        <Summary Type="InvoiceSection">
+          <SummaryRow>
+            <RowDetail Header="Вартість, грн">
+              <Text>Замовлено та надано послуг рухомого (мобільного) зв&apos;язку за період</Text>
+              <AmountExclTax Header="Разом (без податків):">439.03</AmountExclTax>
+              <Amount Header="Разом (зі збором до Пенсійного фонду та з ПДВ):">559.76</Amount>
+              <Summary Type="BIGroup">
+                <SummaryRow>
+                  <RowDetail>
+                    <Text>Вихідні внутрішньомережеві  дзвінки</Text>
+                    <Id>2</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Вихідні міські, міжміські дзвінки та дзвінки на номери ін. операторів мобільного зв&apos;язку України</Text>
+                    <Id>3</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Вхідні дзвінки</Text>
+                    <Id>4</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Послуги SMS та MMS (вихідні текстові та мультимедійні повідомлення )</Text>
+                    <Id>12</Id>
+                    <AmountExclTax>3.00</AmountExclTax>
+                    <Amount>3.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Послуги передачі даних із використанням технології GPRS/EDGE</Text>
+                    <Id>27</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Щомісячна абонентна плата</Text>
+                    <Id>1</Id>
+                    <AmountExclTax>556.76</AmountExclTax>
+                    <Amount>556.76</Amount>
+                  </RowDetail>
+                </SummaryRow>
+              </Summary>
+            </RowDetail>
+          </SummaryRow>
+        </Summary>
+      </ContractDetail>
+      <ContractDetail>
+        <ContractID Header="Відомість вартості отриманих послуг за абонентським номером ">0674864961</ContractID>
+        <ContractType Header="" Name="Smart">B2BSMART</ContractType>
+        <ContractName Header="Абонент:">
+          <FullName> Anonymous</FullName>
+        </ContractName>
+        <SubInvoiceAmount>
+          <AmountDetail Type="Sub">
+            <AmountExclTax Header="Разом:">180.09</AmountExclTax>
+            <TotalAmount Header="Разом замовлено та надано послуг за період на суму">180.09</TotalAmount>
+          </AmountDetail>
+        </SubInvoiceAmount>
+        <Summary Type="InvoiceSection">
+          <SummaryRow>
+            <RowDetail Header="Вартість, грн">
+              <Text>Замовлено та надано послуг рухомого (мобільного) зв&apos;язку за період</Text>
+              <AmountExclTax Header="Разом (без податків):">141.25</AmountExclTax>
+              <Amount Header="Разом (зі збором до Пенсійного фонду та з ПДВ):">180.09</Amount>
+              <Summary Type="BIGroup">
+                <SummaryRow>
+                  <RowDetail>
+                    <Text>Щомісячна абонентна плата</Text>
+                    <Id>1</Id>
+                    <AmountExclTax>180.09</AmountExclTax>
+                    <Amount>180.09</Amount>
+                  </RowDetail>
+                </SummaryRow>
+              </Summary>
+            </RowDetail>
+          </SummaryRow>
+        </Summary>
+      </ContractDetail>
+      <ContractDetail>
+        <ContractID Header="Відомість вартості отриманих послуг за абонентським номером ">0675172182</ContractID>
+        <ContractType Header="" Name="Smart">B2BSMART</ContractType>
+        <ContractName Header="Абонент:">
+          <FullName> Anonymous</FullName>
+        </ContractName>
+        <SubInvoiceAmount>
+          <AmountDetail Type="Sub">
+            <AmountExclTax Header="Разом:">186.76</AmountExclTax>
+            <TotalAmount Header="Разом замовлено та надано послуг за період на суму">186.76</TotalAmount>
+          </AmountDetail>
+        </SubInvoiceAmount>
+        <Summary Type="InvoiceSection">
+          <SummaryRow>
+            <RowDetail Header="Вартість, грн">
+              <Text>Замовлено та надано послуг рухомого (мобільного) зв&apos;язку за період</Text>
+              <AmountExclTax Header="Разом (без податків):">146.48</AmountExclTax>
+              <Amount Header="Разом (зі збором до Пенсійного фонду та з ПДВ):">186.76</Amount>
+              <Summary Type="BIGroup">
+                <SummaryRow>
+                  <RowDetail>
+                    <Text>Вихідні внутрішньомережеві  дзвінки</Text>
+                    <Id>2</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Вхідні дзвінки</Text>
+                    <Id>4</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Послуги передачі даних із використанням технології GPRS/EDGE</Text>
+                    <Id>27</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Щомісячна абонентна плата</Text>
+                    <Id>1</Id>
+                    <AmountExclTax>186.76</AmountExclTax>
+                    <Amount>186.76</Amount>
+                  </RowDetail>
+                </SummaryRow>
+              </Summary>
+            </RowDetail>
+          </SummaryRow>
+        </Summary>
+      </ContractDetail>
+      <ContractDetail>
+        <ContractID Header="Відомість вартості отриманих послуг за абонентським номером ">0674848110</ContractID>
+        <ContractType Header="" Name="Smart+">B2BSMARTPLUS</ContractType>
+        <ContractName Header="Абонент:">
+          <FullName> Anonymous</FullName>
+        </ContractName>
+        <SubInvoiceAmount>
+          <AmountDetail Type="Sub">
+            <AmountExclTax Header="Разом:">296.76</AmountExclTax>
+            <TotalAmount Header="Разом замовлено та надано послуг за період на суму">296.76</TotalAmount>
+          </AmountDetail>
+        </SubInvoiceAmount>
+        <Summary Type="InvoiceSection">
+          <SummaryRow>
+            <RowDetail Header="Вартість, грн">
+              <Text>Замовлено та надано послуг рухомого (мобільного) зв&apos;язку за період</Text>
+              <AmountExclTax Header="Разом (без податків):">232.75</AmountExclTax>
+              <Amount Header="Разом (зі збором до Пенсійного фонду та з ПДВ):">296.76</Amount>
+              <Summary Type="BIGroup">
+                <SummaryRow>
+                  <RowDetail>
+                    <Text>Вхідні дзвінки</Text>
+                    <Id>4</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Переадресовані дзвінки</Text>
+                    <Id>28</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Щомісячна абонентна плата</Text>
+                    <Id>1</Id>
+                    <AmountExclTax>296.76</AmountExclTax>
+                    <Amount>296.76</Amount>
+                  </RowDetail>
+                </SummaryRow>
+              </Summary>
+            </RowDetail>
+          </SummaryRow>
+        </Summary>
+      </ContractDetail>
+      <ContractDetail>
+        <ContractID Header="Відомість вартості отриманих послуг за абонентським номером ">0675187868</ContractID>
+        <ContractType Header="" Name="Smart+">B2BSMARTPLUS</ContractType>
+        <ContractName Header="Абонент:">
+          <FullName> Anonymous</FullName>
+        </ContractName>
+        <SubInvoiceAmount>
+          <AmountDetail Type="Sub">
+            <AmountExclTax Header="Разом:">256.76</AmountExclTax>
+            <TotalAmount Header="Разом замовлено та надано послуг за період на суму">256.76</TotalAmount>
+          </AmountDetail>
+        </SubInvoiceAmount>
+        <Summary Type="InvoiceSection">
+          <SummaryRow>
+            <RowDetail Header="Вартість, грн">
+              <Text>Замовлено та надано послуг рухомого (мобільного) зв&apos;язку за період</Text>
+              <AmountExclTax Header="Разом (без податків):">201.38</AmountExclTax>
+              <Amount Header="Разом (зі збором до Пенсійного фонду та з ПДВ):">256.76</Amount>
+              <Summary Type="BIGroup">
+                <SummaryRow>
+                  <RowDetail>
+                    <Text>Вихідні внутрішньомережеві  дзвінки</Text>
+                    <Id>2</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Вихідні міські, міжміські дзвінки та дзвінки на номери ін. операторів мобільного зв&apos;язку України</Text>
+                    <Id>3</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Вхідні дзвінки</Text>
+                    <Id>4</Id>
+                    <AmountExclTax>0.00</AmountExclTax>
+                    <Amount>0.00</Amount>
+                  </RowDetail>
+                  <RowDetail>
+                    <Text>Щомісячна абонентна плата</Text>
+                    <Id>1</Id>
+                    <AmountExclTax>256.76</AmountExclTax>
+                    <Amount>256.76</Amount>
+                  </RowDetail>
+                </SummaryRow>
+              </Summary>
+            </RowDetail>
+          </SummaryRow>
+        </Summary>
+      </ContractDetail>
+      <ContractDetail>
+        <ContractID Header="Відомість вартості отриманих послуг за абонентським номером ">0674853830</ContractID>
+        <ContractType Header="" Name="Smart Max">B2BSMARTMAX</ContractType>
+        <ContractName Header="Абонент:">
+          <FullName> Anonymous</FullName>
+        </ContractName>
+        <SubInvoiceAmount>
+          <AmountDetail Type="Sub">
+            <AmountExclTax Header="Разом:">350.00</AmountExclTax>
+            <TotalAmount Header="Разом замовлено та надано послуг за період на суму">350.00</TotalAmount>
+          </AmountDetail>
+        </SubInvoiceAmount>
+      </ContractDetail>
+    </Contract>
+  </Invoice>
+</InvoiceDocument>
+</Array-Bill>

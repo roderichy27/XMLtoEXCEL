@@ -1,0 +1,8 @@
+C:\Users\Cry\Desktop\C# SHARP\XMLtoEXCEL\XMLtoEXCEL\bin\Debug\XMLtoEXCEL.exe.config
+C:\Users\Cry\Desktop\C# SHARP\XMLtoEXCEL\XMLtoEXCEL\bin\Debug\XMLtoEXCEL.exe
+C:\Users\Cry\Desktop\C# SHARP\XMLtoEXCEL\XMLtoEXCEL\bin\Debug\XMLtoEXCEL.pdb
+C:\Users\Cry\Desktop\C# SHARP\XMLtoEXCEL\XMLtoEXCEL\obj\Debug\XMLtoEXCEL.csproj.AssemblyReference.cache
+C:\Users\Cry\Desktop\C# SHARP\XMLtoEXCEL\XMLtoEXCEL\obj\Debug\XMLtoEXCEL.csproj.ResolveComReference.cache
+C:\Users\Cry\Desktop\C# SHARP\XMLtoEXCEL\XMLtoEXCEL\obj\Debug\XMLtoEXCEL.csproj.CoreCompileInputs.cache
+C:\Users\Cry\Desktop\C# SHARP\XMLtoEXCEL\XMLtoEXCEL\obj\Debug\XMLtoEXCEL.exe
+C:\Users\Cry\Desktop\C# SHARP\XMLtoEXCEL\XMLtoEXCEL\obj\Debug\XMLtoEXCEL.pdb
